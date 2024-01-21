@@ -1,0 +1,11 @@
+a.navbar-brand {
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+ul.navbar-nav {
+    font-weight: 700;
+}
+#navbarNav { 
+    display: flex;
+}
